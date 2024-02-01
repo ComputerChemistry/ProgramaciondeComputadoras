@@ -1,0 +1,2 @@
+# ProgramaciondeComputadoras
+Setting up Git 
